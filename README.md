@@ -1,2 +1,11 @@
-# website
-Tesla STEM Auctions small business p5
+# STEM-Auctions.???
+
+Website for a small business project in Business and Marketing.
+
+## Contributing
+ 
+
+
+## Building
+
+
