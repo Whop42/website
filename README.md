@@ -4,8 +4,9 @@ Website for a small business project in Business and Marketing.
 
 ## Contributing
  
+for commits, use [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
+## Running
 
-## Building
-
-
+`cd auctions`
+`python manage.py runserver`
